@@ -1,5 +1,10 @@
 # Qwen3-VL-Colaboratory-Sample
-Colaboratory上で[Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)をお試しするサンプル
+Colaboratory上で[Qwen3-VL](https://github.com/QwenLM/Qwen3-VL)をお試しするサンプル<br>
+画像説明以外に2D物体検出を試しています。
+
+> **Note**
+> <br>Qwen3-VLは多様なタスクをサポートしています
+> <br>→ その他タスクは[cookbooks](https://github.com/QwenLM/Qwen3-VL/tree/main/cookbooks)を参照
 
 <img width="1637" height="970" alt="image" src="https://github.com/user-attachments/assets/24cfefac-5604-497e-99f8-d95baf82cc55" />
 
